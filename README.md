@@ -20,6 +20,10 @@ YouTube Video & Audio Downloader is a simple yet powerful Python application tha
 ## 🎨 Screenshots of the UI
 
 
+### 🖥️ UI Preview  
+![UI Preview](ss_ui.png)  
+
+
 ## 🚀 How to Run the Project
 
 Prerequisites:
